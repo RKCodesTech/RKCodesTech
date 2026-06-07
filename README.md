@@ -13,7 +13,13 @@
 - MySQL
 
 ---
+## 🤝 Connect with Me
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=22&center=true&vCenter=true&width=550&lines=Connect+with+me;Let's+build+something+amazing;Open+to+opportunities)](https://git.io/typing-svg)
+
+📧 Email: riyakosta88@gmail.com 
+💼 LinkedIn:(https://www.linkedin.com/in/riya-kosta-7bb1bb337)
+🐙 GitHub: https://github.com/RKCodesTech
 
 ## 🔥 GitHub Streak
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RKCodesTech)
