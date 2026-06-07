@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:0F2027,100:2C5364&height=220&section=header&text=Riya%20Kosta&fontSize=50&fontColor=00BFFF&animation=twinkling)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=34&center=true&vCenter=true&width=700&lines=Heyy+I'm+Riya+Kosta;DSA+Learner;+Spring;)](https://git.io/typing-svg)
 
 💻 Java Full Stack Developer  
