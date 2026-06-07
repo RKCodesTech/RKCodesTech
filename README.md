@@ -15,7 +15,7 @@
 ---
 
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=RKCodesTech&show_icons=true
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RKCodesTech&show_icons=true&theme=tokyonight)
 ---
 
 ## 🔥 GitHub Streak
