@@ -1,4 +1,4 @@
-# Hi 👋 I'm RIYA
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF6F61&size=28&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Riya;Welcome+to+my+GitHub+Profile;Java+%7C+Spring+Boot+%7C+DSA)](https://git.io/typing-svg)
 
 💻 Java Full Stack Developer  
 📚 Learning DSA + Spring Boot  
