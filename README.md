@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=26&center=true&vCenter=true&width=600&lines=Hi+I'm+Riya;Java+Full+Stack+Developer;Spring+Boot+Learner;DSA+Practicing)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=32&center=true&vCenter=true&width=600&lines=Heyy+;I'm+Riya;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 💻 Java Full Stack Developer  
 📚 Learning DSA + Spring Boot  
 🚀 Passionate about Backend Development  
