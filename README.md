@@ -1,34 +1,67 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=200&section=header&text=Riya%20Kosta&fontSize=48&fontColor=FFFFFF&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=200&section=header&text=Riya%20Kosta&fontSize=55&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=34&center=true&vCenter=true&width=700&lines=Hey+There+I'm+Riya+Kosta;DSA+Learner;+Spring;)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=32&center=true&vCenter=true&width=700&lines=Hey+There+I'm+Riya+Kosta;+Java+Full+Stack+Developer;+Learning+DSA+%2B+Spring+Boot;+Passionate+Backend+Engineer;" alt="Typing SVG" />
+  </a>
+</p>
 
-💻 Java Full Stack Developer  
-📚 Learning DSA + Spring Boot  
-🚀 Passionate about Backend Development  
+---
+
+## 💫 About Me
+
+- 💻 **Backend Focus:** Passionate about building scalable and robust backend systems.
+- 📚 **Current Focus:** Sharpening my problem-solving skills with **Data Structures & Algorithms (DSA)** and diving deeper into **Spring Boot**.
+- 🌱 **Goal:** Open to exciting opportunities and collaborative open-source projects!
 
 ---
 
-## 🛠 Skills
-- Java
-- Spring Boot
-- HTML, CSS, JavaScript
-- MySQL
+## 🛠️ Tech Stack & Skills
+
+### 🖥️ Backend & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 ---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKCodesTech&theme=dark" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKCodesTech&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RKCodesTech&show_icons=true&theme=dark&count_private=true" alt="Riya's GitHub Stats" width="80%" />
+</p>
+
+---
+
 ## 🤝 Connect with Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF000000&size=22&center=true&vCenter=true&width=550&lines=Connect+with+me;Let's+build+something+amazing;Open+to+opportunities)](https://git.io/typing-svg)
-
-📧 Email: riyakosta88@gmail.com 
-
-💼 LinkedIn:(https://www.linkedin.com/in/riya-kosta-7bb1bb337)
-
-🐙 GitHub: https://github.com/RKCodesTech
-
-## 🔥 GitHub Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RKCodesTech)
+<p align="center">
+  <a href="mailto:riyakosta88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/riya-kosta-7bb1bb337" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Fun Animation
-![typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Java+Developer;Spring+Boot+Learner;DSA+Practicing)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F2937&height=120&section=footer" width="100%" />
+</p>
