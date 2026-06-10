@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=32&center=true&vCenter=true&width=700&lines=Hey+There+I'm+Riya+Kosta;+Java+Full+Stack+Developer;+Learning+DSA+%2B+Spring+Boot;+Passionate+Backend+Engineer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=32&center=true&vCenter=true&width=700&lines=Hey+There+I'm+Riya+Kosta;+Java+Full+Stack+Developer;+Building+End-to-End+Web+Apps;+Learning+DSA+%2B+Spring+Boot;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,26 +12,26 @@
 
 ## 💫 About Me
 
-- 💻 **Backend Focus:** Passionate about building scalable and robust backend systems.
-- 📚 **Current Focus:** Sharpening my problem-solving skills with **Data Structures & Algorithms (DSA)** and diving deeper into **Spring Boot**.
-- 🌱 **Goal:** Open to exciting opportunities and collaborative open-source projects!
+- 💻 **Full Stack Development:** Passionate about building seamless, end-to-end web applications from intuitive UIs to robust server architectures.
+- 📚 **Current Focus:** Sharpening my problem-solving skills with **Data Structures & Algorithms (DSA)** while mastering advanced **Spring Boot** capabilities.
+- 🌱 **Goal:** Open to exciting full-stack opportunities and collaborating on impactful open-source projects!
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 🖥️ Backend & Core
+### ⚙️ Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
