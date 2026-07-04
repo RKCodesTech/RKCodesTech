@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <i>✨ "Don't compare your Chapter 1 to someone else's Chapter 20."</i>
-</p>
-
 ---
 
 # 💫 About Me
