@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<p align="center">
+  <i>✨ "Don't compare your Chapter 1 to someone else's Chapter 20."</i>
+</p>
+
 ---
 
 # 💫 About Me
@@ -103,4 +107,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=120&section=footer"/>
-</p> Don't compare your Chapter 1 to someone else's Chapter 20. add this at my readme without changin single thing 
+</p>
