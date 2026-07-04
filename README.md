@@ -10,7 +10,7 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 - 💻 Passionate **Java Full Stack Developer**
 - 🌱 Currently learning **Spring Boot, Microservices & DSA**
@@ -77,7 +77,7 @@
 
 # ⚡ Fun Fact
 
-🎨 I love sketching in my free time—it keeps me creative, and I bring that same creativity into building software.
+ Whether it's with a pencil or a keyboard, I enjoy bringing ideas to life.
 
 ---
 
