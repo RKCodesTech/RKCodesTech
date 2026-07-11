@@ -1,162 +1,121 @@
-# 👋 Hi, I'm Riya Kosta
-
-```{=html}
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:3A7BD5,70:87CEFA,100:BDEBFF&height=220&section=header&text=Riya%20Kosta&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"/>`{=html}
-```{=html}
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=200&section=header&text=Riya%20Kosta&fontSize=55&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3500&pause=900&color=87CEFA&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Building+Scalable+Backend+Applications;Spring+Boot+%7C+REST+APIs+%7C+MySQL;DSA+Learner;Always+Learning+Something+New+🚀"/>`{=html}
-```{=html}
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+There!+👋;I'm+Riya+Kosta;Java+Full+Stack+Developer;Building+End-to-End+Web+Applications;Learning+Spring+Boot+%7C+DSA;Always+Learning+New+Things!+🚀" alt="Typing SVG" />
+  </a>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 💫 About Me
+#  About Me
 
-I'm a Computer Science student passionate about building scalable
-backend applications with Java and Spring Boot.
+- 💻 Passionate **Java Full Stack Developer**
+- 🌱 Currently learning **Spring Boot, Microservices & DSA**
+- 🚀 Love building end-to-end web applications
+- 📚 Continuously improving problem-solving skills
+- 🎯 Aspiring Software Engineer eager to build impactful solutions
 
--   💻 Java Full Stack Developer
--   🌱 Learning Spring Boot, Spring Security & Microservices
--   🧩 Practicing DSA consistently
--   🚀 Building real-world Java projects
--   🎯 Goal: Software Engineer
+---
 
-------------------------------------------------------------------------
+# 🛠️ Tech Stack
 
-# 🚀 Featured Projects
+### 👨‍💻 Languages
 
-## 🎓 Quiz Web App
-
-**Tech:** Java, JSP, JDBC, MySQL, HTML, CSS, JavaScript
-
-✨ Features - Level-based Quiz - Daily Streak - Leaderboard - Admin
-Dashboard - Question Management
-
-------------------------------------------------------------------------
-
-## 🎓 Student Management System
-
-**Tech:** Spring Boot, Spring JDBC, MySQL
-
-✨ Features - Add Student - Update Student - Delete Student - Search
-Student - REST APIs
-
-------------------------------------------------------------------------
-
-# 🛠 Tech Stack
-
-### Languages
-
-Java • JavaScript • HTML • CSS
-
-### Frameworks
-
-Spring Boot • Spring • Hibernate
-
-### Database
-
-MySQL • JDBC
-
-### Tools
-
-Git • GitHub • Eclipse • VS Code
-
-------------------------------------------------------------------------
-
-# 🏆 GitHub Trophies
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=RKCodesTech&theme=algolia&no-frame=true&row=1&column=7"/>`{=html}
-```{=html}
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-```
 
-------------------------------------------------------------------------
+### ⚙️ Frameworks & Database
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
 
 # 📊 GitHub Analytics
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=RKCodesTech&show_icons=true&theme=transparent&hide_border=true"/>`{=html}
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=RKCodesTech&theme=transparent&hide_border=true"/>`{=html}
-```{=html}
+  <img src="https://github-readme-stats.vercel.app/api?username=RKCodesTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKCodesTech&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=RKCodesTech&theme=react-dark&hide_border=true"/>`{=html}
-```{=html}
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKCodesTech&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 🐍 Contribution Snake
+# 🎯 Current Goals
 
-```{=html}
+- 🌱 Master Spring Boot & Microservices
+- 📚 Solve 300+ DSA problems
+- 💼 Build industry-level Full Stack projects
+- 🚀 Contribute to Open Source
+- 🎯 Become a Software Engineer
+
+---
+
+# ⚡ Fun Fact
+
+ Whether it's with a pencil or a keyboard, I enjoy bringing ideas to life.
+
+---
+
+# 🤝 Connect with Me
+
 <p align="center">
-```
-`<img src="https://raw.githubusercontent.com/RKCodesTech/RKCodesTech/output/github-contribution-grid-snake-dark.svg"/>`{=html}
-```{=html}
+<a href="mailto:riyakosta88@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/riya-kosta-7bb1bb337">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 📚 Current Focus
-
--   🌱 Spring Boot & Microservices
--   🔐 Spring Security
--   📖 Data Structures & Algorithms
--   ☁️ REST APIs
--   💼 Industry-level Projects
-
-------------------------------------------------------------------------
-
-# 💻 Coding Profiles
-
-Add your: - LeetCode - GeeksforGeeks - HackerRank
-
-------------------------------------------------------------------------
-
-# ⚡ Quote
-
-> **"Turning ideas into software, one commit at a time."**
-
-------------------------------------------------------------------------
-
-# 🤝 Connect With Me
-
--   📧 **Email:** riyakosta88@gmail.com
--   💼 **LinkedIn:** https://www.linkedin.com/in/riya-kosta-7bb1bb337
-
-------------------------------------------------------------------------
-
-```{=html}
 <p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=RKCodesTech&label=Profile%20Views&color=87CEFA&style=for-the-badge"/>`{=html}
-```{=html}
+<img src="https://komarev.com/ghpvc/?username=RKCodesTech&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-```{=html}
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:3A7BD5,70:87CEFA,100:BDEBFF&height=120&section=footer"/>`{=html}
-```{=html}
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=120&section=footer"/>
 </p>
-```
+
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RKCodesTech&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=120&section=footer"/>
+</p>
