@@ -4,55 +4,47 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+There!+👋;I'm+Riya+Kosta;Java+Full+Stack+Developer;Building+End-to-End+Web+Applications;Learning+Spring+Boot+%7C+DSA;Always+Learning+New+Things!+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;Building+End-to-End+Web+Applications;300%2B+DSA+Problems+%26+Growing;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-#  About Me
+## 👩‍💻 About Me
 
-- 💻 Passionate **Java Full Stack Developer**
-- 🌱 Currently learning **Spring Boot, Microservices & DSA**
-- 🚀 Love building end-to-end web applications
-- 📚 Continuously improving problem-solving skills
-- 🎯 Aspiring Software Engineer eager to build impactful solutions
-
----
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### ⚙️ Frameworks & Database
-
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+- 🎯 **Java Full Stack Developer** with hands-on experience in building scalable web applications using **Spring Boot, Hibernate, MySQL, and JavaScript**.
+- 📘 Currently sharpening **Data Structures & Algorithms** (500+ problems solved) and deepening expertise in **Microservices**.
+- 🔧 Passionate about writing clean, maintainable code and delivering end-to-end solutions.
+- 🤝 Open to **Software Engineer / Full Stack Developer** opportunities.
 
 ---
 
-# 📊 GitHub Analytics
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Database
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RKCodesTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -65,57 +57,38 @@
 
 ---
 
-# 🎯 Current Goals
+## 🎯 Current Focus
 
-- 🌱 Master Spring Boot & Microservices
-- 📚 Solve 300+ DSA problems
-- 💼 Build industry-level Full Stack projects
-- 🚀 Contribute to Open Source
-- 🎯 Become a Software Engineer
-
----
-
-# ⚡ Fun Fact
-
- Whether it's with a pencil or a keyboard, I enjoy bringing ideas to life.
+- Mastering **Spring Boot, REST APIs, and Microservices**
+- Solving **300+ DSA problems** on LeetCode & GFG
+- Building **industry-ready Full Stack projects**
+- Contributing to **Open Source**
+- Preparing for **Software Engineer roles**
 
 ---
 
-# 🤝 Connect with Me
+## ⚡ Fun Fact
+
+Whether sketching with a pencil or coding with a keyboard, I love bringing ideas to life — creatively and technically.
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-<a href="mailto:riyakosta88@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/riya-kosta-7bb1bb337">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="mailto:riyakosta88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/riya-kosta-7bb1bb337"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/RKCodesTech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RKCodesTech&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=RKCodesTech&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=120&section=footer"/>
-</p>
-
-</a>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=RKCodesTech&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=120&section=footer" />
 </p>
