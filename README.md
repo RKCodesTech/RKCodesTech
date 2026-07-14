@@ -13,7 +13,7 @@
 ## 👩‍💻 About Me
 
 - 🎯 **Java Full Stack Developer** with hands-on experience in building scalable web applications using **Spring Boot, Hibernate, MySQL, and JavaScript**.
-- 📘 Currently sharpening **Data Structures & Algorithms** (150+ problems solved) and deepening expertise in **Microservices**.
+- 📘 Currently sharpening **Data Structures & Algorithms** ) and deepening expertise in **Microservices**.
 - 🔧 Passionate about writing clean, maintainable code and delivering end-to-end solutions.
 - 🤝 Open to **Software Engineer / Full Stack Developer** opportunities.
 
