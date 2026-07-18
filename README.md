@@ -12,35 +12,39 @@
 
 ## 👩‍💻 About Me
 
-- 🎯 **Java Full Stack Developer** with hands-on experience in building scalable web applications using **Spring Boot, Hibernate, MySQL, and JavaScript**.
-- 📘 Currently sharpening **Data Structures & Algorithms** ) and deepening expertise in **Microservices**.
-- 🔧 Passionate about writing clean, maintainable code and delivering end-to-end solutions.
-- 🤝 Open to **Software Engineer / Full Stack Developer** opportunities.
+- 🎯 **Java Full Stack Developer** with hands-on experience in building scalable, secure web applications using **Spring Boot, Hibernate, MySQL, and JavaScript**.
+- 📘 Currently sharpening **Data Structures & Algorithms** and deepening expertise in **Microservices architectures**.
+- 🔧 Passionate about writing clean, maintainable, and production-ready code.
+- 🤝 Actively seeking **Software Engineer / Full Stack Developer** opportunities.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
- 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🚀 Languages & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-### Frameworks & Database
+### ⚙️ Backend Frameworks & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge" alt="JDBC" />
+</p>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
- 
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🛠️ Developer Tools & Environments
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse" />
+</p>
 
 ---
 
@@ -59,17 +63,15 @@
 
 ## 🎯 Current Focus
 
-- Mastering **Spring Boot, REST APIs, and Microservices**
-- Solving **300+ DSA problems** on LeetCode & GFG
-- Building **industry-ready Full Stack projects**
-- Contributing to **Open Source**
-- Preparing for **Software Engineer roles**
+- 🏗️ Mastering **RESTful APIs & Microservices Architecture** with Spring Cloud.
+- 💡 Solving **300+ DSA problems** across LeetCode & GeeksforGeeks to build strong analytical skills.
+- 🔨 Developing enterprise-ready Full Stack applications.
 
 ---
 
 ## ⚡ Fun Fact
 
-Whether sketching with a pencil or coding with a keyboard, I love bringing ideas to life — creatively and technically.
+🎨 Whether sketching with a pencil or coding with a keyboard, I love bringing ideas to life—combining structural engineering with creative detail.
 
 ---
 
