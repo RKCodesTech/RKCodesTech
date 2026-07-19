@@ -12,25 +12,18 @@
 
 ## 👩‍💻 About Me
 
-- 🎯 **Java Full Stack Developer** with hands-on experience in building scalable, secure web applications using **Spring Boot, Hibernate, MySQL, and JavaScript**.
-- 📘 Currently sharpening **Data Structures & Algorithms** and deepening expertise in **Microservices architectures**.
-- 🔧 Passionate about writing clean, maintainable, and production-ready code.
-- 🤝 Actively seeking **Software Engineer / Full Stack Developer** opportunities.
+*   🚀 **Java Full Stack Developer** passionate about building robust, scalable, and secure end-to-end web applications.
+*   📘 Currently sharpening **Data Structures & Algorithms (DSA)** fundamentals and deepening my expertise in **Microservices architectures**.
+*   🔧 Committed to writing clean, maintainable, and production-ready code using industry best practices.
+*   🤝 Actively seeking **Software Engineer / Full Stack Developer** opportunities to contribute to impactful projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages & Core
+### 💻 Backend & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### ⚙️ Backend Frameworks & Databases
-<p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
@@ -38,13 +31,28 @@
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge" alt="JDBC" />
 </p>
 
-### 🛠️ Developer Tools & Environments
+### 🌐 Frontend Fundamentals
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🔧 Tools & Environments
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse" />
 </p>
+
+---
+
+## 🎯 Current Focus
+
+*   🏗️ **System Architecture:** Mastering RESTful APIs and Microservices Architecture using Spring Cloud.
+*   💡 **Problem Solving:** Actively tackling **300+ DSA problems** on LeetCode and GeeksforGeeks to strengthen algorithmic thinking.
+*   🔨 **Real-world Practice:** Architecting enterprise-ready full-stack projects.
 
 ---
 
@@ -61,17 +69,9 @@
 
 ---
 
-## 🎯 Current Focus
-
-- 🏗️ Mastering **RESTful APIs & Microservices Architecture** with Spring Cloud.
-- 💡 Solving **300+ DSA problems** across LeetCode & GeeksforGeeks to build strong analytical skills.
-- 🔨 Developing enterprise-ready Full Stack applications.
-
----
-
 ## ⚡ Fun Fact
 
-🎨 Whether sketching with a pencil or coding with a keyboard, I love bringing ideas to life—combining structural engineering with creative detail.
+🎨 Whether sketching with a pencil on paper or writing logic on a keyboard, I love bringing ideas to life—blending structural architecture with creative execution!
 
 ---
 
@@ -82,8 +82,6 @@
   <a href="https://www.linkedin.com/in/riya-kosta-7bb1bb337"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/RKCodesTech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RKCodesTech&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
