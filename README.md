@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=200&section=header&text=Riya%20Kosta&fontSize=55&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=200&section=header&text=Riya%20Kosta&fontSize=55&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;Building+Scalable+Web+Applications;Data+Structures+%26+Algorithms;Open+to+Software+Engineering+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;Servlets+%26+JSP;Building+Scalable+Web+Applications;Data+Structures+%26+Algorithms;Open+to+Software+Engineering+Opportunities" />
 </p>
 
 ---
 
 # 👋 Hi, I'm Riya Kosta
 
-🎓 B.Tech Computer Science Engineering (2027)
+🎓 B.Tech Computer Science Engineering (Batch of 2027)
 
-💻 Passionate Java Full Stack Developer focused on building scalable, secure, and efficient web applications.
+💻 Passionate **Java Full Stack Developer** with expertise in Servlets, JSP, Spring Boot, and Hibernate, focused on building scalable, secure, and efficient web applications.
 
-I enjoy solving problems using Java and continuously improving my understanding of backend development, databases, system design, and clean code principles.
+I enjoy problem-solving with Java and continuously improving my backend and full-stack skills, database management, system design, and clean code practices.
 
 ---
 
 # 🚀 About Me
 
-- 💻 Java Full Stack Developer
-- 🌱 Currently learning Spring Boot & REST APIs
-- 📚 Improving DSA and problem-solving skills
-- 🛠 Building real-world Java projects
-- 🎯 Interested in Backend Engineering & Full Stack Development
-- 🤝 Open to Software Engineer Internships & Full-Time Opportunities
+- 💻 Experienced in Java Full Stack Development including Servlets and JSP
+- 🌱 Currently mastering Spring Boot & REST API development
+- 📚 Enhancing Data Structures & Algorithms skills for robust problem-solving
+- 🛠 Developing real-world Java projects emphasizing backend and full-stack development
+- 🎯 Strong interest in Backend Engineering and Enterprise-level Application Development
+- 🤝 Open to Software Engineering Internships & Full-Time Positions
 
 ---
 
@@ -35,39 +35,17 @@ I enjoy solving problems using Java and continuously improving my understanding 
 
 Java • JavaScript • HTML5 • CSS3 • SQL
 
-## Backend
+## Backend Technologies
 
-Spring Boot
-
-Spring Framework
-
-Hibernate
-
-JDBC
-
-Servlets
-
-JSP
-
-REST APIs
+Spring Boot • Spring Framework • Hibernate • Servlets • JSP • JDBC • RESTful APIs
 
 ## Database
 
 MySQL
 
-## Tools
+## Tools & Platforms
 
-Git
-
-GitHub
-
-Maven
-
-Eclipse
-
-VS Code
-
-Postman
+Git • GitHub • Maven • Eclipse • VS Code • Postman
 
 ---
 
@@ -75,50 +53,24 @@ Postman
 
 ## 📝 Quiz Web Application
 
-- Java
-- JSP
-- Servlets
-- MySQL
-- HTML
-- CSS
-- JavaScript
-
-Features
-
-- Level-wise Quiz
-- Leaderboard
-- Daily Streak
-- Admin Dashboard
-
----
+- Technologies: Java, JSP, Servlets, MySQL, HTML, CSS, JavaScript  
+- Features: Level-wise Quizzes, Leaderboard, Daily Streak Tracking, Admin Dashboard
 
 ## 🎓 Student Management System
 
-- Spring Framework
-- JDBC
-- MySQL
-
-Features
-
-- CRUD Operations
-- Database Connectivity
-- Layered Architecture
+- Technologies: Spring Framework, JDBC, MySQL  
+- Features: CRUD operations with database connectivity in a layered architecture
 
 ---
 
 # 📈 Currently Learning
 
-✔ Spring Boot
-
-✔ Spring MVC
-
-✔ Hibernate
-
-✔ REST APIs
-
-✔ Maven
-
-✔ Data Structures & Algorithms
+✔ Spring Boot  
+✔ Spring MVC  
+✔ Hibernate  
+✔ REST APIs  
+✔ Maven  
+✔ Advanced Data Structures & Algorithms
 
 ---
 
@@ -137,11 +89,11 @@ Features
 
 # 🌟 Goals for 2026
 
-- 🚀 Become an Industry-ready Java Backend Engineer
-- 💯 Solve 150+ DSA Problems
-- 🏗 Build Enterprise-level Spring Boot Projects
-- ☁ Learn Microservices
-- 🔥 Contribute to Open Source
+- Become a proficient industry-ready **Java Backend Engineer**  
+- Solve 300+ problems in Data Structures & Algorithms  
+- Build enterprise-level applications using **Spring Boot**  
+- Learn and implement **Microservices Architecture**  
+- Contribute to Open Source Projects
 
 ---
 
