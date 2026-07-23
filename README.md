@@ -90,7 +90,7 @@ Git • GitHub • Maven • Eclipse • VS Code • Postman
 # 🌟 Goals for 2026
 
 - Become a proficient industry-ready **Java Backend Engineer**  
-- Solve 300+ problems in Data Structures & Algorithms  
+- Solve 150+ problems in Data Structures & Algorithms  
 - Build enterprise-level applications using **Spring Boot**  
 - Learn and implement **Microservices Architecture**  
 - Contribute to Open Source Projects
