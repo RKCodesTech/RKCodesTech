@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;Servlets+%26+JSP;Building+Scalable+Web+Applications;Data+Structures+%26+Algorithms;Open+to+Software+Engineering+Opportunities" />
 </p>
-
+                               
 ---
 
 # 👋 Hi, I'm Riya Kosta
