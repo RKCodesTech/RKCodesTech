@@ -8,7 +8,7 @@
                                
 ---
 
-# 👋 Hi, I'm Riya Kosta
+#  Hi, I'm Riya Kosta
 
 🎓 B.Tech Computer Science Engineering (Batch of 2027)
 
