@@ -1,28 +1,32 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=250&section=header&text=Riya%20Kosta&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=200&section=header&text=Riya%20Kosta&fontSize=55&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&color=3B82F6&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;Building+Scalable+Applications;DSA+Enthusiast;Open+to+Internships+%26+SDE+Roles"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;Building+Scalable+Web+Applications;Data+Structures+%26+Algorithms;Open+to+Software+Engineering+Internships" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Riya Kosta</h2>
+<h1 align="center">Hi 👋, I'm Riya Kosta</h1>
+
+<h3 align="center">
+B.Tech Computer Science Engineering Student | Java Backend Developer | Spring Boot Enthusiast
+</h3>
 
 <p align="center">
-🎓 B.Tech Computer Science Engineering (2027)<br>
-💻 Java Backend Developer • Spring Boot Enthusiast • Problem Solver
+Passionate about building scalable backend applications using Java and Spring Boot while continuously improving my problem-solving skills through Data Structures & Algorithms.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Java Full Stack Developer
-- 🌱 Learning Spring Boot, REST APIs & Microservices
-- 🔥 Strong interest in Backend Engineering
-- 📚 Solving Data Structures & Algorithms
+- 🎓 B.Tech Computer Science Engineering (Batch of 2027)
+- 💻 Java Backend Developer
+- 🌱 Currently learning **Spring Boot, Hibernate, REST APIs & Microservices**
+- 📚 Practicing **Data Structures & Algorithms**
+- 🛠 Building real-world Java projects
+- 🎯 Interested in Backend Engineering & Enterprise Application Development
 - 💼 Open to Software Engineering Internships
-- ⚡ Love building real-world Java projects
 
 ---
 
@@ -31,65 +35,86 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
 </p>
 
-**Also:** Hibernate • Servlets • JSP • JDBC • REST API
+**Also Experienced In**
+
+- Hibernate
+- Servlets
+- JSP
+- JDBC
+- REST APIs
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🎓 Student Management System
+## 📝 Quiz Web Application
 
-Spring Framework • JDBC • MySQL
+**Tech Stack**
 
-✔ CRUD Operations
+- Java
+- JSP
+- Servlets
+- MySQL
+- HTML
+- CSS
+- JavaScript
 
-✔ Layered Architecture
+**Features**
 
-✔ Database Connectivity
+- User Authentication
+- Level-wise Quizzes
+- Leaderboard
+- Daily Streak
+- Admin Dashboard
 
 ---
 
-### 📝 Quiz Web Application
+## 🎓 Student Management System
 
-Java • JSP • Servlets • MySQL
+**Tech Stack**
 
-✔ Authentication
+- Spring Framework
+- JDBC
+- MySQL
 
-✔ Admin Dashboard
+**Features**
 
-✔ Leaderboard
-
-✔ Daily Streak
+- CRUD Operations
+- Layered Architecture
+- Database Connectivity
+- Clean MVC Structure
 
 ---
 
 # 🌱 Currently Learning
 
 - Spring Boot
+- Spring MVC
 - Hibernate
-- Spring Security
 - REST APIs
+- Maven
 - Microservices
 - System Design
+- Advanced Data Structures & Algorithms
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -110,9 +135,7 @@ Java • JSP • Servlets • MySQL
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=RKCodesTech&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
 </p>
 
 ---
@@ -120,21 +143,19 @@ Java • JSP • Servlets • MySQL
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RKCodesTech&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
-- ✅ Become an Industry Ready Java Backend Developer
-- ✅ Master Spring Boot
-- ✅ Learn Microservices
-- ✅ Solve 300+ DSA Problems
-- ✅ Contribute to Open Source
-- ✅ Build Production-Level Projects
+- 🚀 Become an Industry-Ready Java Backend Developer
+- 📚 Solve 300+ DSA Problems
+- 🌱 Master Spring Boot & Hibernate
+- ☁️ Learn Microservices Architecture
+- 🤝 Contribute to Open Source
+- 💼 Secure a Software Engineering Internship
 
 ---
 
@@ -156,14 +177,12 @@ Java • JSP • Servlets • MySQL
 
 </p>
 
+---
+
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=RKCodesTech&style=for-the-badge&color=3B82F6"/>
-
+<img src="https://komarev.com/ghpvc/?username=RKCodesTech&style=for-the-badge&color=0e75b6"/>
 </p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=120&section=footer"/>
 </p>
