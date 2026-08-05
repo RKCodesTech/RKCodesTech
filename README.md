@@ -44,7 +44,7 @@ Passionate about building scalable backend applications using Java and Spring Bo
 <img src="https://skillicons.dev/icons?i=spring,maven" />
 </p>
 
-**Also Experienced In**
+### Also Experienced In
 
 - Hibernate
 - Servlets
@@ -64,7 +64,7 @@ Passionate about building scalable backend applications using Java and Spring Bo
 
 ## 📝 Quiz Web Application
 
-**Tech Stack**
+### Tech Stack
 
 - Java
 - JSP
@@ -74,7 +74,7 @@ Passionate about building scalable backend applications using Java and Spring Bo
 - CSS
 - JavaScript
 
-**Features**
+### Features
 
 - User Authentication
 - Level-wise Quizzes
@@ -86,13 +86,13 @@ Passionate about building scalable backend applications using Java and Spring Bo
 
 ## 🎓 Student Management System
 
-**Tech Stack**
+### Tech Stack
 
 - Spring Framework
 - JDBC
 - MySQL
-                      
-**Features**
+
+### Features
 
 - CRUD Operations
 - Layered Architecture
@@ -118,9 +118,9 @@ Passionate about building scalable backend applications using Java and Spring Bo
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RKCodesTech&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RKCodesTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RKCodesTech&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=RKCodesTech&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -143,7 +143,7 @@ Passionate about building scalable backend applications using Java and Spring Bo
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RKCodesTech&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RKCodesTech&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
