@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=200&section=header&text=Riya%20Kosta&fontSize=55&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 </p>
 
-<p align="center">
+<p align="center">                   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;Building+Scalable+Web+Applications;Data+Structures+%26+Algorithms;Open+to+Software+Engineering+Internships" />
 </p>
  
