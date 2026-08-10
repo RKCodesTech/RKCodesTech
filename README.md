@@ -18,7 +18,7 @@ Passionate about building scalable backend applications using Java and Spring Bo
 
 ---
 
-# 🚀 About Me
+# About Me
 
 - 🎓 B.Tech Computer Science Engineering (Batch of 2027)
 - 💻 Java Backend Developer
