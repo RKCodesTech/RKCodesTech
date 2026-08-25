@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;Building+Scalable+Web+Applications;DSA+%7C+REST+APIs+%7C+Microservices;Open+to+Software+Engineering+Internships"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;Building+Real-World+Web+Applications;DSA+%7C+REST+APIs+%7C+Microservices;Open+to+Software+Engineering+Internships"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Riya Kosta</h1>
@@ -13,47 +13,59 @@ B.Tech CSE Student • Java Backend Developer • Spring Boot Enthusiast
 </h3>
 
 <p align="center">
-Passionate about developing scalable backend applications with Java and Spring technologies while strengthening problem-solving through Data Structures & Algorithms.
+I build backend applications using Java and Spring technologies,
+while continuously improving my problem-solving skills through Data Structures & Algorithms.
+</p>
+
+<p align="center">
+  <a href="https://github.com/RKCodesTech">
+    <img src="https://img.shields.io/github/followers/RKCodesTech?label=Followers&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/RKCodesTech?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 **B.Tech Computer Science Engineering (2023–2027)**
-- 💻 Focused on **Java Backend Development**
-- 🌱 Learning **Spring Boot, Hibernate, REST APIs & Microservices**
-- 📚 Solving **Data Structures & Algorithms** regularly
-- 🛠 Love building real-world backend projects
-- 💼 **Open to Software Engineering Internship opportunities**
+* 🎓 **B.Tech Computer Science & Engineering | 2023–2027**
+* 💻 Focused on **Java Backend Development**
+* 🌱 Currently learning **Spring Boot, Hibernate, REST APIs & Microservices**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🛠️ Interested in building **real-world scalable applications**
+* 🔧 Working with **Java, Spring, MySQL & Git**
+* 💼 Open to **Software Engineering Internship opportunities**
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
 </p>
 
-### Backend & Frameworks
+### ⚙️ Backend & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,maven"/>
 </p>
 
-### Technologies
+**Technologies I work with:**
 
-- Spring MVC
-- Spring Boot
-- Hibernate
-- JDBC
-- Servlets & JSP
-- REST APIs
-- MySQL
+* Spring Boot
+* Spring MVC
+* Hibernate
+* JDBC
+* Servlets & JSP
+* REST APIs
+* MySQL
+* Maven
 
-### Tools
+### 🛠️ Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman"/>
@@ -65,41 +77,69 @@ Passionate about developing scalable backend applications with Java and Spring t
 
 ## 📝 Quiz Web Application
 
-**Tech:** Java • JSP • Servlets • MySQL • HTML • CSS • JavaScript
+**Java • JSP • Servlets • JDBC • MySQL • HTML • CSS • JavaScript**
 
-### Features
+A web-based quiz application designed with a structured level-based quiz system.
 
-- Secure User Authentication
-- Level-wise Quiz System
-- Daily Streak Tracking
-- Leaderboard
-- Admin Dashboard
+### ✨ Features
+
+* 🔐 User Authentication
+* 🎯 Level-wise Quiz System
+* 🔥 Daily Streak Tracking
+* 🏆 Leaderboard
+* 👨‍💼 Admin Dashboard
+* 📊 Quiz Progress Tracking
+* 🗄️ MySQL Database Integration
 
 ---
 
 ## 🎓 Student Management System
 
-**Tech:** Spring Framework • JDBC • MySQL
+**Spring Framework • JDBC • MySQL**
 
-### Features
+A backend-focused student management application implementing CRUD operations with a layered architecture.
 
-- Complete CRUD Operations
-- Layered MVC Architecture
-- JDBC Database Integration
-- Clean & Modular Code Structure
+### ✨ Features
+
+* ➕ Create Student Records
+* 🔍 Retrieve Student Information
+* ✏️ Update Student Records
+* 🗑️ Delete Student Records
+* 🏗️ Layered MVC Architecture
+* 🔗 JDBC Database Integration
 
 ---
 
 # 🌱 Currently Learning
 
-- Spring Boot
-- Spring Security
-- Hibernate
-- REST API Development
-- Maven
-- Microservices
-- System Design
-- Advanced DSA
+```text
+Spring Boot
+    ↓
+Spring Security
+    ↓
+Hibernate / JPA
+    ↓
+REST API Development
+    ↓
+Microservices
+    ↓
+System Design
+```
+
+Alongside backend development, I'm consistently working on **DSA and problem-solving**.
+
+---
+
+# 📚 What I'm Working Towards
+
+* 🚀 Becoming an **Industry-Ready Java Backend Developer**
+* ☕ Building production-style applications with **Spring Boot**
+* 🔐 Understanding **Spring Security & Authentication**
+* 🗄️ Improving **Database & SQL skills**
+* 🧠 Strengthening **DSA & Problem Solving**
+* 🌐 Learning **Microservices Architecture**
+* ☁️ Exploring **Cloud & Deployment**
+* 🤝 Contributing to **Open Source**
 
 ---
 
@@ -134,12 +174,14 @@ Passionate about developing scalable backend applications with Java and Spring t
 
 # 🎯 2026 Goals
 
-- 🚀 Become an Industry-Ready Java Backend Developer
-- 📚 Solve **300+ DSA Problems**
-- 🌱 Master Spring Boot & Hibernate
-- ☁️ Learn Microservices Architecture
-- 🤝 Contribute to Open Source
-- 💼 Secure a Software Engineering Internship
+* [ ] 🚀 Become an industry-ready Java Backend Developer
+* [ ] 📚 Solve **300+ DSA Problems**
+* [ ] 🌱 Master **Spring Boot & Hibernate**
+* [ ] 🔐 Learn **Spring Security**
+* [ ] ☁️ Learn **Cloud & Deployment**
+* [ ] 🌐 Build **RESTful & Microservices-based applications**
+* [ ] 🤝 Contribute to Open Source
+* [ ] 💼 Secure a **Software Engineering Internship**
 
 ---
 
@@ -163,6 +205,10 @@ Passionate about developing scalable backend applications with Java and Spring t
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RKCodesTech&style=for-the-badge&color=0e75b6"/>
+</p>
+
+<p align="center">
+  <i>💻 Code. Learn. Build. Repeat.</i>
 </p>
 
 <p align="center">
