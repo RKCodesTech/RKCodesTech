@@ -14,7 +14,8 @@ B.Tech CSE Student • Java Backend Developer • Spring Boot Enthusiast
 
 <p align="center">
 I build backend applications using Java and Spring technologies,
-while continuously improving my problem-solving skills through Data Structures & Algorithms.
+with a focus on clean architecture, REST APIs, database integration,
+and problem-solving through Data Structures & Algorithms.
 </p>
 
 <p align="center">
@@ -32,10 +33,11 @@ while continuously improving my problem-solving skills through Data Structures &
 
 * 🎓 **B.Tech Computer Science & Engineering | 2023–2027**
 * 💻 Focused on **Java Backend Development**
-* 🌱 Currently learning **Spring Boot, Hibernate, REST APIs & Microservices**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🛠️ Interested in building **real-world scalable applications**
-* 🔧 Working with **Java, Spring, MySQL & Git**
+* 🌱 Currently learning **Spring Boot, Spring Security, Hibernate/JPA & REST APIs**
+* 🧠 Consistently practicing **Data Structures & Algorithms**
+* 🗄️ Working with **MySQL, JDBC & Hibernate**
+* 🔧 Building applications using **Java, Spring, Maven & Git**
+* 🌐 Exploring **Microservices & Cloud Deployment**
 * 💼 Open to **Software Engineering Internship opportunities**
 
 ---
@@ -54,18 +56,20 @@ while continuously improving my problem-solving skills through Data Structures &
   <img src="https://skillicons.dev/icons?i=spring,maven"/>
 </p>
 
-**Technologies I work with:**
+**Technologies:**
 
+* Java
+* Spring Framework
 * Spring Boot
 * Spring MVC
-* Hibernate
+* Hibernate / JPA
 * JDBC
 * Servlets & JSP
 * REST APIs
 * MySQL
 * Maven
 
-### 🛠️ Tools
+### 🛠️ Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman"/>
@@ -79,16 +83,18 @@ while continuously improving my problem-solving skills through Data Structures &
 
 **Java • JSP • Servlets • JDBC • MySQL • HTML • CSS • JavaScript**
 
-A web-based quiz application designed with a structured level-based quiz system.
+A level-based web quiz application designed to provide an interactive
+quiz experience with user progress tracking and database integration.
 
 ### ✨ Features
 
 * 🔐 User Authentication
 * 🎯 Level-wise Quiz System
+* ⏱️ Timed Quizzes
 * 🔥 Daily Streak Tracking
 * 🏆 Leaderboard
 * 👨‍💼 Admin Dashboard
-* 📊 Quiz Progress Tracking
+* 📊 Progress Tracking
 * 🗄️ MySQL Database Integration
 
 ---
@@ -97,7 +103,8 @@ A web-based quiz application designed with a structured level-based quiz system.
 
 **Spring Framework • JDBC • MySQL**
 
-A backend-focused student management application implementing CRUD operations with a layered architecture.
+A backend-focused CRUD application following a layered architecture
+for managing student records.
 
 ### ✨ Features
 
@@ -110,23 +117,48 @@ A backend-focused student management application implementing CRUD operations wi
 
 ---
 
+## 🦷 Orthodontic Clinic Management System
+
+**Java • Spring Boot • Hibernate/JPA • MySQL • REST APIs**
+
+A planned full-stack backend application focused on managing
+orthodontic clinic operations and patient-related workflows.
+
+### 🎯 Planned Features
+
+* 👤 Patient Management
+* 📅 Appointment Scheduling
+* 🦷 Treatment Records
+* 👨‍⚕️ Doctor Management
+* 💳 Billing Management
+* 🔐 Authentication & Authorization
+* 📊 Dashboard & Reports
+* 🔗 RESTful API Architecture
+
+---
+
 # 🌱 Currently Learning
 
 ```text
+Java
+  ↓
 Spring Boot
-    ↓
+  ↓
 Spring Security
-    ↓
+  ↓
 Hibernate / JPA
-    ↓
+  ↓
 REST API Development
-    ↓
+  ↓
 Microservices
-    ↓
+  ↓
+Cloud & Deployment
+  ↓
 System Design
 ```
 
-Alongside backend development, I'm consistently working on **DSA and problem-solving**.
+Alongside backend development, I'm consistently improving my
+**DSA, SQL and problem-solving skills**.
 
 ---
 
@@ -135,11 +167,12 @@ Alongside backend development, I'm consistently working on **DSA and problem-sol
 * 🚀 Becoming an **Industry-Ready Java Backend Developer**
 * ☕ Building production-style applications with **Spring Boot**
 * 🔐 Understanding **Spring Security & Authentication**
-* 🗄️ Improving **Database & SQL skills**
-* 🧠 Strengthening **DSA & Problem Solving**
+* 🗄️ Strengthening **SQL & Database Design**
+* 🧠 Solving **300+ DSA Problems**
 * 🌐 Learning **Microservices Architecture**
 * ☁️ Exploring **Cloud & Deployment**
 * 🤝 Contributing to **Open Source**
+* 💼 Securing a **Software Engineering Internship**
 
 ---
 
@@ -178,8 +211,9 @@ Alongside backend development, I'm consistently working on **DSA and problem-sol
 * [ ] 📚 Solve **300+ DSA Problems**
 * [ ] 🌱 Master **Spring Boot & Hibernate**
 * [ ] 🔐 Learn **Spring Security**
-* [ ] ☁️ Learn **Cloud & Deployment**
+* [ ] 🗄️ Strengthen **SQL & Database Design**
 * [ ] 🌐 Build **RESTful & Microservices-based applications**
+* [ ] ☁️ Learn **Cloud & Deployment**
 * [ ] 🤝 Contribute to Open Source
 * [ ] 💼 Secure a **Software Engineering Internship**
 
