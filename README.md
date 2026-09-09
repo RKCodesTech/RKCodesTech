@@ -1,128 +1,80 @@
 # 🚀 About Me
-            
+
 * 🎓 **B.Tech Computer Science & Engineering | 2023–2027**
 * ☕ **Aspiring Java Backend Developer**
-* 🌱 Currently learning **Spring, Spring Boot, REST APIs & Spring Security**
-* 💻 Working with **Java, Spring, JDBC & MySQL**
+* 🌱 Currently learning **Spring Boot, REST APIs, JPA / Hibernate & Spring Security**
+* 💻 Stack: **Java, Spring Boot, JDBC, MySQL, HTML/CSS & JavaScript**
 * 🧠 Practicing **Data Structures & Algorithms**
-* 🔧 Using **Maven, Git, GitHub, Eclipse & VS Code**
-* 🌐 Exploring backend development and web technologies
-* 💼 Looking for opportunities to learn and grow as a **Software Developer**
+* 🔧 Tools: **Maven, Git, GitHub, Postman, Eclipse & VS Code**
+* 💼 Seeking opportunities to learn and grow as a **Software Development Engineer (SDE) Intern**
 
 ---
 
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" alt="Languages" />
 </p>
 
-### ⚙️ Backend & Technologies
-
+### ⚙️ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,maven"/>
+  <img src="https://skillicons.dev/icons?i=spring,maven" alt="Backend" />
 </p>
 
-**Technologies:**
+**Core Competencies:**
+* **Languages & Core:** Java, Data Structures & Algorithms, Object-Oriented Programming (OOP)
+* **Backend:** Spring Framework, Spring Boot, Spring Data JPA, RESTful APIs, JDBC, Servlets & JSP
+* **Database:** MySQL, Relational Database Design, SQL Query Optimization
+* **Tools & Environment:** Git, GitHub, Maven, Postman, Eclipse, VS Code
 
-* Java
-* Spring Framework
-* Spring MVC
-* Spring Boot *(Learning)*
-* JDBC
-* Servlets & JSP
-* REST APIs *(Learning)*
-* MySQL
-* Maven
-
-### 🛠️ Tools
-
+### 🛠️ Developer Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" alt="Tools" />
 </p>
 
 ---
 
-# 📚 Learning & Practice
+# 📊 GitHub Stats
 
-Currently focusing on building a strong foundation in Java backend development.
-
-```text
-Core Java
-   ↓
-OOP & Collections
-   ↓
-JDBC & MySQL
-   ↓
-Servlets & JSP
-   ↓
-Spring Framework
-   ↓
-Spring MVC
-   ↓
-Spring Boot
-   ↓
-REST APIs
-   ↓
-Spring Security
-```
-
-Alongside backend development, I'm practicing:
-
-* 🧠 Data Structures & Algorithms
-* 🗄️ SQL & Database Concepts
-* 🌐 Web Development
-* 🔧 Git & GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RKCodesTech&show_icons=true&theme=tokyonight&hide_border=true" alt="Riya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKCodesTech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
 # 🛠️ Projects
 
-I'm currently learning and building my first backend projects.
+### 🚧 Featured & Ongoing Projects
 
-### 🚧 Projects Coming Soon
+* **User Authentication & Authorization Service** *(In Progress)*
+  * **Tech Stack:** Java, Spring Boot, Spring Security, MySQL
+  * **Key Features:** User registration, login, role-based access control, and secure credential handling.
 
-I'm working towards building practical applications using:
-
-* ☕ Java
-* 🌱 Spring Boot
-* 🗄️ MySQL
-* 🔗 REST APIs
-* 🔐 Spring Security
-
-More projects will be added here as I build and complete them.
+* **RESTful Student Management System** *(In Progress)*
+  * **Tech Stack:** Java, Spring Boot, Spring Data JPA, MySQL, Postman
+  * **Key Features:** CRUD operations, pagination, custom exception handling, and RESTful API endpoints.
 
 ---
 
-# 🎯 2026 Goals
+# 📚 Learning Roadmap
 
-* [ ] 🚀 Become an industry-ready Java Backend Developer
-* [ ] 📚 Strengthen DSA fundamentals
-* [ ] 🌱 Learn Spring Boot properly
-* [ ] 🔐 Learn Spring Security
-* [ ] 🗄️ Strengthen SQL & Database Design
-* [ ] 🔗 Build REST API projects
-* [ ] 🌐 Build real-world Java applications
-* [ ] ☁️ Explore Cloud & Deployment
-* [ ] 🤝 Contribute to Open Source
-* [ ] 💼 Get a Software Engineering Internship
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:riyakosta88@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/riya-kosta-7bb1bb337">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/RKCodesTech">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+```text
+Core Java & OOP
+   ↓
+Collections Framework & Multithreading
+   ↓
+SQL & MySQL Database Design
+   ↓
+JDBC, Servlets & JSP
+   ↓
+Spring Framework & Spring MVC
+   ↓
+Spring Boot & Spring Data JPA
+   ↓
+RESTful APIs & Postman Testing
+   ↓
+Spring Security & JWT
+   ↓
+Microservices & Cloud Basics
