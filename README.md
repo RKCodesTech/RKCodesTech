@@ -5,7 +5,7 @@
 * 🌱 Currently learning **Spring Boot, REST APIs, JPA / Hibernate & Spring Security**
 * 💻 Stack: **Java, Spring Boot, JDBC, MySQL, HTML/CSS & JavaScript**
 * 🧠 Practicing **Data Structures & Algorithms**
-* 🔧 Tools: **Maven, Git, GitHub, Postman, Eclipse & VS Code**
+* 🔧 Tools: **Maven, Git, GitHub, Postman, Eclipse & VS Code**        
 * 💼 Seeking opportunities to learn and grow as a **Software Development Engineer (SDE) Intern**
 
 ---
