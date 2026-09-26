@@ -1,6 +1,6 @@
  # 🚀 About Me
 
-* 🎓 **B.Tech Computer Science & Engineering | 2023–2027**
+* 🎓 **B.Tech Computer Science & Engineering | 2023–2027**                             
 * ☕ **Aspiring Java Backend Developer**  
 * 🌱 Currently learning **Spring Boot, REST APIs, JPA / Hibernate & Spring Security**
 * 💻 Stack: **Java, Spring Boot, JDBC, MySQL, HTML/CSS & JavaScript**
