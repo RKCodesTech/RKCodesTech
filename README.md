@@ -9,7 +9,7 @@
 - 🧠 Practicing **Data Structures & Algorithms using Java**
 - 🔧 Tools: **Git, GitHub, Maven, Postman, Eclipse, and VS Code**
 - 🚀 Interested in building backend applications and developing strong problem-solving skills
-- 💼 Open to **Software Development Engineer (SDE) Internships** and opportunities to learn and grow
+- 💼 Open to **Software Development Engineer (SDE) Internships** and opportunities to learn and grow    
 
 ---
 
