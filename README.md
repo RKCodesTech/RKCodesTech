@@ -15,7 +15,7 @@
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Languages                   
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Java, JavaScript, HTML, CSS" />
